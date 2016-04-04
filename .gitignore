@@ -1,7 +1,7 @@
 .DS_Store
 *.pdf
 *.toc
-*.gz
+*.*.gz
 *.*.gz(busy)
 *.aux
 *.log
