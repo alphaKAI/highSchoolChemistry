@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.toc
+*.gz
+*.*.gz(busy)
+*.aux
+*.log
+.*.*.sw*
+*.*.sw*
